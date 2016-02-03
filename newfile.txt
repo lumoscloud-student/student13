@@ -2,3 +2,4 @@ Test file #2 using pico
 Some Words
 awesome
 Some Words
+Some words
