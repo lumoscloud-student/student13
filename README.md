@@ -1,3 +1,7 @@
 # student13
-# Test file with Michael changes
+<<<<<<< HEAD
+# Test file with  Nickschanges
 woof woof
+=======
+test file by Nick
+>>>>>>> origin/master
